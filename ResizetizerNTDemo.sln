@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResizetizerNTDemo.Android",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResizetizerNTDemo.iOS", "ResizetizerNTDemo\ResizetizerNTDemo.iOS\ResizetizerNTDemo.iOS.csproj", "{22F9B223-8F34-4414-BAF4-D8DB1024AC33}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResizetizerNTDemo", "ResizetizerNTDemo\ResizetizerNTDemo\ResizetizerNTDemo.csproj", "{E8118529-2441-4215-BB7F-E6C49F7EC9AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ResizetizerNTDemo", "ResizetizerNTDemo\ResizetizerNTDemo\ResizetizerNTDemo.csproj", "{E8118529-2441-4215-BB7F-E6C49F7EC9AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -32,6 +32,8 @@ Global
 		{AE6132FE-5D72-4EA7-ACE7-5F4840EE6A81}.Debug|ARM.Build.0 = Debug|ARM
 		{AE6132FE-5D72-4EA7-ACE7-5F4840EE6A81}.Debug|ARM.Deploy.0 = Debug|ARM
 		{AE6132FE-5D72-4EA7-ACE7-5F4840EE6A81}.Debug|iPhone.ActiveCfg = Debug|x86
+		{AE6132FE-5D72-4EA7-ACE7-5F4840EE6A81}.Debug|iPhone.Build.0 = Debug|x86
+		{AE6132FE-5D72-4EA7-ACE7-5F4840EE6A81}.Debug|iPhone.Deploy.0 = Debug|x86
 		{AE6132FE-5D72-4EA7-ACE7-5F4840EE6A81}.Debug|iPhoneSimulator.ActiveCfg = Debug|x86
 		{AE6132FE-5D72-4EA7-ACE7-5F4840EE6A81}.Debug|x64.ActiveCfg = Debug|x64
 		{AE6132FE-5D72-4EA7-ACE7-5F4840EE6A81}.Debug|x64.Build.0 = Debug|x64
@@ -91,6 +93,7 @@ Global
 		{22F9B223-8F34-4414-BAF4-D8DB1024AC33}.Debug|ARM.ActiveCfg = Debug|iPhone
 		{22F9B223-8F34-4414-BAF4-D8DB1024AC33}.Debug|iPhone.ActiveCfg = Debug|iPhone
 		{22F9B223-8F34-4414-BAF4-D8DB1024AC33}.Debug|iPhone.Build.0 = Debug|iPhone
+		{22F9B223-8F34-4414-BAF4-D8DB1024AC33}.Debug|iPhone.Deploy.0 = Debug|iPhone
 		{22F9B223-8F34-4414-BAF4-D8DB1024AC33}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
 		{22F9B223-8F34-4414-BAF4-D8DB1024AC33}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
 		{22F9B223-8F34-4414-BAF4-D8DB1024AC33}.Debug|x64.ActiveCfg = Debug|iPhone
